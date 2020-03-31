@@ -36,10 +36,9 @@
   "assets": { 
     "client": [{
       "file": "helloworld.txt", 
-      "target": "/home/scrapbook/tutorial/", 
+      "target": "~/", 
       "chmod": "+rw"}] 
     },
-  "files": ["helloworld.txt"],
   "environment": {
     "uilayout": "terminal"
   },
