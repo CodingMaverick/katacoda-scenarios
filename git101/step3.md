@@ -4,8 +4,10 @@ One of the key approaches with Git is that commits are focused, small and freque
 
 ## Task
 
-Let's create a new text file with a basic greeting: `echo "Hello World from Git" >> helloworld.txt`{{execute}}
+- Let's create a new text file with a basic greeting: `echo "Hello World from Git" >> helloworld.txt`{{execute}}
 
-Use the command `git add helloworld.txt`{{execute}} to add helloworld.txt to the staging area.
+- Use the command `git add helloworld.txt`{{execute}} to add helloworld.txt to the staging area.
 
-If you make an additional change after adding a file to the staging area then the change will not be reflected until you add the file again.
+> If you make an additional change after adding a file to the staging area then the change will not be reflected until you add the file again.
+
+- Now you can check which files have been changed by executing `git status`{{execute}} again.
