@@ -1,6 +1,7 @@
 {
+  "pathwayTitle": "Modern Applications Development - Git 101",
   "title": "Git101",
-  "description": "Git101 Description",
+  "description": "Learn the basics of Git",
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
@@ -41,16 +42,17 @@
       "text": "finish.md"
     }
   },
-  "assets": {
-    "client": [{
-      "file": "helloworld.txt",
-      "target": "/home/scrapbook/tutorial/"
-    }]
-  },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mThis is your terminal\r\nPlease type your commands here.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "git"
-  }
+  },
+  "assets": {
+    "client": [{
+      "file": "helloworld.txt",
+      "target": "/home/scrapbook/tutorial/hello/"
+    }]
+  },
 }
