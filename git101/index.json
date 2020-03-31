@@ -33,7 +33,6 @@
       "text": "finish.md"
     }
   },
-  "files": [helloworld.txt],
   "environment": {
     "uilayout": "terminal"
   },
