@@ -34,7 +34,7 @@
     }
   },
   "assets": { 
-    "host01": [{
+    "client": [{
       "file": "helloworld.txt", 
       "target": "/home/scrapbook/tutorial/", 
       "chmod": "+rw"}] 
