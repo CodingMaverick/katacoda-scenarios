@@ -6,7 +6,7 @@ Any files matching a defined wildcard will not be displayed in a git status outp
 
 ## Task
 
-- Create a temporary file: `cat "This is temporary" >> temporary.tmp`{{execute}}
-- Create a `.gitignore`file that ignores all *.tmp files: `cat *.tmp >> .gitignore`{{execute}}
+- Create a temporary file: `echo "This is temporary" >> temporary.tmp`{{execute}}
+- Create a `.gitignore` file that ignores all *.tmp files: `cat *.tmp >> .gitignore`{{execute}}
 - Add and Commit to the repository: 
 - Check the status of your repository: 
