@@ -51,8 +51,8 @@
   },
   "assets": {
     "client": [{
-      "file": "helloworld.txt",
-      "target": "helloworld.txt"
+      "file": "assets/helloworld.txt",
+      "target": "~/"
     }]
   }
 }
