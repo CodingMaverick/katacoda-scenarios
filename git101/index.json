@@ -39,6 +39,7 @@
       "target": "/home/scrapbook/tutorial/", 
       "chmod": "+rw"}] 
     },
+  "files": ["helloworld.txt"],
   "environment": {
     "uilayout": "terminal"
   },
