@@ -33,12 +33,6 @@
       "text": "finish.md"
     }
   },
-  "assets": { 
-    "client": [{
-      "file": "helloworld.txt", 
-      "target": "~/", 
-      "chmod": "+rw"}] 
-    },
   "environment": {
     "uilayout": "terminal"
   },
