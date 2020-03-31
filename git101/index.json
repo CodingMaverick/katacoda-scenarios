@@ -61,7 +61,7 @@
     "client": [
       {
         "file": "assets/helloworld.txt",
-        "target": "/home/scrapbook/tutorial/"
+        "target": "/home/scrapbook/tutorial"
       }
     ]
   }
