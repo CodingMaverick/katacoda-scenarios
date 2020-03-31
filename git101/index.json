@@ -41,6 +41,12 @@
       "text": "finish.md"
     }
   },
+  "assets": {
+    "client": [{
+      "file": "helloworld.txt",
+      "target": "/home/scrapbook/tutorial/"
+    }]
+  },
   "environment": {
     "uilayout": "terminal"
   },
