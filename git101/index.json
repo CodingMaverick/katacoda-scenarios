@@ -40,6 +40,14 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "helloworld.txt",
+          "target": "/home/scrapbook/tutorial/"
+        }
+      ]
     }
   },
   "environment": {
@@ -50,9 +58,11 @@
     "imageid": "git"
   },
   "assets": {
-    "client": [{
-      "file": "assets/helloworld.txt",
-      "target": "~/"
-    }]
+    "client": [
+      {
+        "file": "assets/helloworld.txt",
+        "target": "~/"
+      }
+    ]
   }
 }
