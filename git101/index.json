@@ -28,6 +28,10 @@
       {
         "title": "Step 6: Git Diff",
         "text": "step6.md"
+      },
+      {
+        "title": "Step 7: Git Log",
+        "text": "step7.md"
       }
     ],
     "intro": {
