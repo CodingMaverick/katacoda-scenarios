@@ -33,7 +33,12 @@
       "text": "finish.md"
     }
   },
-  "assets": { "client": [{"file": "helloworld.txt", "target": "/home/scrapbook/", "chmod": "+rw"}] },
+  "assets": { 
+    "client": [{
+      "file": "helloworld.txt", 
+      "target": "/home/scrapbook/tutorial/", 
+      "chmod": "+rw"}] 
+    },
   "environment": {
     "uilayout": "terminal"
   },
