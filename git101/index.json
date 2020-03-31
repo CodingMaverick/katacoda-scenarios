@@ -4,14 +4,6 @@
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
-    "assets": {
-      "host01": [
-        {
-          "file": "helloworld.txt",
-          "target": "~/"
-        }
-      ]
-    },
     "steps": [
       {
         "title": "Step 1: Git Init",
@@ -41,6 +33,7 @@
       "text": "finish.md"
     }
   },
+  "files": [helloworld.txt],
   "environment": {
     "uilayout": "terminal"
   },
