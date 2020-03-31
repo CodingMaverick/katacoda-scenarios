@@ -8,5 +8,6 @@ Any files matching a defined wildcard will not be displayed in a git status outp
 
 - Create a temporary file: `echo "This is temporary" >> temporary.tmp`{{execute}}
 - Create a `.gitignore` file that ignores all .tmp files: `cat *.tmp >> .gitignore`{{execute}}
-- Add and Commit to the repository: 
-- Check the status of your repository: 
+- Add all the new files: `git add .`{{execute}}
+- Check the status of your repository: `git status`{{execute}}
+- Commit to the repository: `git commit -m "My second git commit"`{{execute}}
