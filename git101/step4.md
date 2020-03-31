@@ -2,3 +2,6 @@ Once a file has been added to the staging area it needs to be committed to the r
 
 Only changes added to the staging area will be committed, any files in the working directory that have not been staged will not be included.
 
+## Task
+
+Use `git commit -m "My first git commit"`{{execute}} to commit the staged file.
