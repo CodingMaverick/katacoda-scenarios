@@ -10,7 +10,8 @@
           "file": "helloworld.txt",
           "target": "~/"
         }
-      ],
+      ]
+    },
     "steps": [
       {
         "title": "Step 1: Git Init",
