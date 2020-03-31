@@ -4,6 +4,13 @@
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "helloworld.txt",
+          "target": "~/"
+        }
+      ],
     "steps": [
       {
         "title": "Step 1: Git Init",
