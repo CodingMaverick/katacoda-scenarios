@@ -1,4 +1,4 @@
-Welcome to the Git 101 training! 
+# Welcome to the Git 101 training! 
 
 ## What will you learn?
 
