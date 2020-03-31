@@ -24,6 +24,10 @@
       {
         "title": "Step 5: Git Ignore",
         "text": "step5.md"
+      },
+      {
+        "title": "Step 6: Git Diff",
+        "text": "step6.md"
       }
     ],
     "intro": {
